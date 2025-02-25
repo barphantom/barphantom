@@ -27,7 +27,7 @@
 - A **meal planning** web application 🍽️
 
 ### 📫 How to reach me?  
-💼 <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bart%C5%82omiej-dobrza%C5%84ski-5b4972258/)" target="_blank">LinkedIn</a> | 📧 <a href="#" onclick="navigator.clipboard.writeText('b.dobrzanski02@gmail.com'); alert('Email copied to clipboard!')">b.dobrzanski02@gmail.com</a>  
+💼 [LinkedIn](https://www.linkedin.com/in/bart%C5%82omiej-dobrza%C5%84ski-5b4972258/) | 📧 [b.dobrzanski02@gmail.com](mailto:b.dobrzanski02@gmail.com)  
 
 🚀 Open to collaboration and new projects!  
 
